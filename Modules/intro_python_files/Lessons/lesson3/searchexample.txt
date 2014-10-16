@@ -1,0 +1,15 @@
+hammer
+5.99
+5
+saw
+6.99
+6
+sledge hammer
+17.99
+7
+screwdriver
+8.99
+12
+ruler
+9.99
+2

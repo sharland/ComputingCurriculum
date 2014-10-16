@@ -1,0 +1,17 @@
+body {
+	background-image: url(images/IMG_9334.JPG);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-shadow: 3px 3px #0F3;
+}
+a {
+	font-weight: bold;
+	color: #C00;
+}
+h1 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: xx-large;
+	font-style: italic;
+	font-weight: bolder;
+	color: #090;
+}
