@@ -1,6 +1,4 @@
-# Lesson Template
-
-## Lesson Title
+# Setting up your first page in Dreamweaver
 
 ## Lesson number *x* of *y*
 

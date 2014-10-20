@@ -1,6 +1,4 @@
-# Lesson Template
-
-## Lesson Title
+# Introduction to Dreamweaver window
 
 ## Lesson number *x* of *y*
 
